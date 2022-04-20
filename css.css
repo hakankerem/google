@@ -1,0 +1,85 @@
+.solust{
+    float: right;
+    position: relative;
+    top: -15px;
+   
+}
+
+.sign{
+    position: relative;
+    left: -50px;
+    color: white;
+    background-color: rgb(5, 120, 193);
+}
+
+#box {
+    max-width: 300px;
+    position: relative;
+    left: 600px;
+    top: 300px;
+    }
+    #box .fa-search {
+    position: absolute;
+    top: 14px;
+    left: 12px;
+    font-size: 20px;
+    color:cornflowerblue;
+    }
+    #search {
+    width: 100px;
+    box-sizing: border-box;
+    border: 2px solid cornflowerblue;
+    border-radius: 4px;
+    font-size:18px;
+    padding: 12px 20px 12px 40px;
+    -moz-transition: width 0.4s ease-in-out;
+    -o-transition: width 0.4s ease-in-out;
+    -webkit-transition: width 0.4s ease-in-out;
+    transition: width 0.4s ease-in-out;
+    }
+    #search:focus {
+    width: 100%;
+    }
+    
+
+.ara
+{
+    position: relative;
+    left: 550px;
+    top: 350px;
+    width: 150px;
+    background-color: rgba(173, 165, 165, 0.573);
+}
+
+.ara2{
+    position: relative;
+    left: 600px;
+    top: 350px;
+    width: 130px;
+    background-color:rgba(173, 165, 165, 0.573);
+}
+
+.genel
+
+{
+   
+}
+
+.solalt {
+
+   position: relative;
+    background-color: rgb(182, 188, 186);
+    height: 30px;
+    top: 550px;
+}
+.sagalt {
+
+    height: 30px;
+
+    float: right;
+    position: relative;
+    left: -20px;
+    top: 520px;
+    background-color: rgb(182, 188, 186);
+
+}
